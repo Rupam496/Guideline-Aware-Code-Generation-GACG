@@ -246,19 +246,3 @@ This directory contains generated outputs used for qualitative comparison betwee
 
 ---
 
-# Output
-
-The final model aims to generate:
-
-* guideline-compliant code
-* improved readability
-* better software engineering practices
-* higher-quality generated implementations
-
----
-
-# Author
-
-```text
-Rupam Das
-```
