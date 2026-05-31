@@ -346,28 +346,3 @@ Round 5 Similarity ≈ 0.79
 * Retrieval-aware optimization
 
 ---
-
-# Limitations
-
-* CKKS computational overhead
-* Higher communication cost
-* Increased latency
-* Large encrypted tensor size
-
----
-
-# Future Work
-
-Potential improvements:
-
-* Differential Privacy
-* Dynamic Query Generation
-* Adaptive Client Selection
-* Efficient Encryption Parameters
-* Multi-Key Homomorphic Encryption
-
----
-
-# License
-
-This project is intended for educational and research purposes.
