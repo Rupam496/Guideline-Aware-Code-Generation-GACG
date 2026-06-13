@@ -246,8 +246,4 @@ This directory contains generated outputs used for qualitative comparison betwee
 
 ---
 
-# Author
 
-```text
-Rupam Das
-```
